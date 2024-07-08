@@ -36,3 +36,57 @@
     transform: rotate(360deg);
   }
 }
+
+.exit-screen {
+  padding: 20px;
+}
+
+.exit-screen h1 {
+  margin-bottom: 20px;
+}
+
+.exit-screen div {
+  margin-bottom: 10px;
+}
+
+.exit-screen button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.exit-screen button:hover {
+  background-color: #45a049;
+}
+
+.cost-summary {
+  margin-top: 20px;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.entry-screen {
+  padding: 20px;
+}
+
+.entry-screen h1 {
+  margin-bottom: 20px;
+}
+
+.entry-screen form div {
+  margin-bottom: 10px;
+}
+
+.entry-screen button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.entry-screen button:hover {
+  background-color: #45a049;
+}
